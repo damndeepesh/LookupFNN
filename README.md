@@ -1,4 +1,4 @@
-# LookupFFN: Lightweight Feed-Forward Networks via Hash-Based Lookups
+# LookupFFN : Lightweight Feed-Forward Networks via Hash-Based Lookups
 
 This project implements and compares **LookupFFN** (a lightweight feed-forward network using hash-based lookups) against traditional FFN architectures and state-of-the-art HuggingFace models.
 
